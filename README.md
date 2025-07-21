@@ -107,7 +107,7 @@ After the mixing phase, adjacent bit pairs undergo XOR operations to further enh
 **Entropy:** 7.999987  
 **Normalized Entropy:** 0.999998
 
-See full results in [`test_results/mibis.txt`](test_results/mibis.txt) and [`test_results/sha3.txt`](test_results/sha3.txt).
+See full results in [`test_results/mibis.txt`](example_test_results/mibis.txt) and [`test_results/sha3.txt`](example_test_results/sha3.txt).
 
 ---
 
